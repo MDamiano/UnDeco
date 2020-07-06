@@ -33,7 +33,7 @@ The ```after_processing``` divide each column of the result matrix by its standa
 
 ## Authors
 
-* **Mario Damiano** - Github: [MDamiano](https://github.com/MDamiano) - Twitter: [@astromariodam](https://twitter.com/astromariodam) - e-mail: mdamiano91@gmail.com
+* **Mario Damiano** - Github: [MDamiano](https://github.com/MDamiano) - Twitter: [@MarioDami](https://twitter.com/MarioDami) - e-mail: mdamiano91@gmail.com
 
 ## License
 
